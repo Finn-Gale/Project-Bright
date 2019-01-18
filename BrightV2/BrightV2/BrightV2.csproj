@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CD4A2574-C473-4E33-AB4D-F034DC3B4B83}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BrightV2</RootNamespace>
+    <AssemblyName>BrightV2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Code\AI\AIFactory.cs" />
+    <Compile Include="Code\AI\Behaviours\Behaviour.cs" />
+    <Compile Include="Code\AI\Behaviours\BehaviourInterfaces\IFollower.cs" />
+    <Compile Include="Code\AI\Behaviours\BehaviourInterfaces\ITarget.cs" />
+    <Compile Include="Code\AI\Behaviours\Follow.cs" />
+    <Compile Include="Code\AI\Behaviours\Gravity.cs" />
+    <Compile Include="Code\AI\Behaviours\BehaviourInterfaces\IGravity.cs" />
+    <Compile Include="Code\AI\IAIFactory.cs" />
+    <Compile Include="Code\AI\IBehaviour.cs" />
+    <Compile Include="Code\AI\IMindBuilder.cs" />
+    <Compile Include="Code\AI\MindBuilder.cs" />
+    <Compile Include="Code\Entities\Lights\Pickup.cs" />
+    <Compile Include="Code\Entities\Lights\Torch.cs" />
+    <Compile Include="Code\Entities\Platform.cs" />
+    <Compile Include="Code\Entities\Players\Com.cs" />
+    <Compile Include="Code\Input\IDedicatedListener.cs" />
+    <Compile Include="Code\Levels\ILevel.cs" />
+    <Compile Include="Code\Levels\Level1.cs" />
+    <Compile Include="Code\Levels\Level2.cs" />
+    <Compile Include="Code\Levels\Level3.cs" />
+    <Compile Include="Code\Viewport\Camera.cs" />
+    <Compile Include="Code\Entities\Entity.cs" />
+    <Compile Include="Code\Entities\LightEntity.cs" />
+    <Compile Include="Code\Entities\Lights\PlayerLight.cs" />
+    <Compile Include="Code\Entities\Players\IPlayer.cs" />
+    <Compile Include="Code\Colliders\IPlayCollide.cs" />
+    <Compile Include="Code\Colliders\IRigidCollide.cs" />
+    <Compile Include="Code\Entities\Players\May.cs" />
+    <Compile Include="Code\Entities\Players\Player.cs" />
+    <Compile Include="Code\Entities\RigidBlock.cs" />
+    <Compile Include="Code\Input\IInputListener.cs" />
+    <Compile Include="Code\Input\IPlayerControler.cs" />
+    <Compile Include="Code\Managers\Interfaces\IRenderMgr.cs" />
+    <Compile Include="Code\Managers\AIMgr.cs" />
+    <Compile Include="Code\Managers\CollisionMgr.cs" />
+    <Compile Include="Code\Managers\EntityMgr.cs" />
+    <Compile Include="Code\Game1.cs" />
+    <Compile Include="Code\Entities\GameEntity.cs" />
+    <Compile Include="Code\Entities\IEntity.cs" />
+    <Compile Include="Code\Managers\Interfaces\IAIMgr.cs" />
+    <Compile Include="Code\Managers\Interfaces\ICollisionMgr.cs" />
+    <Compile Include="Code\Managers\Interfaces\IEntityMgr.cs" />
+    <Compile Include="Code\Managers\Interfaces\IInputMgr.cs" />
+    <Compile Include="Code\Managers\InputMgr.cs" />
+    <Compile Include="Code\Managers\Interfaces\ISceneMgr.cs" />
+    <Compile Include="Code\Managers\Interfaces\IViewportMgr.cs" />
+    <Compile Include="Code\Managers\RenderMgr.cs" />
+    <Compile Include="Code\Managers\ViewportMgr.cs" />
+    <Compile Include="Code\Program.cs" />
+    <Compile Include="Code\Colliders\ICollidable .cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Code\Managers\SceneMgr.cs" />
+    <Compile Include="Code\Entities\Square.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\black_square.png" />
+    <Content Include="Content\blue_square.png" />
+    <Content Include="Content\lighteffect.fx" />
+    <Content Include="Content\lightmask.png" />
+    <Content Include="Content\com.png" />
+    <Content Include="Content\may.png" />
+    <Content Include="Content\platform.png" />
+    <Content Include="Content\player_light.png" />
+    <Content Include="Content\square.png" />
+    <Content Include="Content\torch.png" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </MonoGameContentReference>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

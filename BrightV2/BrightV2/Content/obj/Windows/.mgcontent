@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/square.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/blue_square.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/black_square.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/lightmask.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/player_light.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/lighteffect.fx</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/may.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/com.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/platform.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/torch.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/pickup.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/wall.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/lightbar.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/hatman.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/thing.png</File>
+    <File>C:/Users/GALF1_16/Desktop/BrightV2/BrightV2/Content/floaty_thing.png</File>
+  </SourceFiles>
+</SourceFileCollection>

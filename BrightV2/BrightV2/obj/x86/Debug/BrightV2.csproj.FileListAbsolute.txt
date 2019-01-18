@@ -1,0 +1,222 @@
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+c:\users\galf1_16\documents\visual studio 2015\Projects\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\Finn\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Finn\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\Finn\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_blue.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csproj.CoreCompileInputs.cache
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csproj.CopyComplete
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightMaskIllegal.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_blue.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_light.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffect.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffect.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_light.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\com.xnb
+C:\Users\GALF1_16\Downloads\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\may.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffct.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\black_square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\blue_square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\com.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffect.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\may.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\platform.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_light.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\square.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\torch.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.exe
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\BrightV2.pdb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csprojResolveAssemblyReference.cache
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\com.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lighteffect.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\may.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\platform.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\player_light.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\torch.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csproj.CoreCompileInputs.cache
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\obj\x86\Debug\BrightV2.csproj.CopyComplete
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\pickup.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightbar.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\hatman.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\thing.xnb
+C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\floaty_thing.xnb
