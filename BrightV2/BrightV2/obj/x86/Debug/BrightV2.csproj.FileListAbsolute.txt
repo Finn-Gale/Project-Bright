@@ -220,3 +220,5 @@ C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\lightb
 C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\hatman.xnb
 C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\thing.xnb
 C:\Users\GALF1_16\Desktop\BrightV2\BrightV2\bin\Windows\x86\Debug\Content\floaty_thing.xnb
+C:\Users\Finn\Desktop\Temp_Folder_forWorkTransfer\Project-Bright\BrightV2\BrightV2\obj\x86\Debug\BrightV2.exe
+C:\Users\Finn\Desktop\Temp_Folder_forWorkTransfer\Project-Bright\BrightV2\BrightV2\obj\x86\Debug\BrightV2.pdb
